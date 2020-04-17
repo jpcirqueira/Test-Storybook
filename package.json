@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@storybook/addon-knobs": "^5.3.18"
+  }
+}
